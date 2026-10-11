@@ -74,7 +74,7 @@ All experiments are conducted across **3 fixed random seeds (0, 1, 2)** and repo
 ```
 .
 |-- DL_ASS02_23F_0791.ipynb                # Executed Jupyter Notebook with all pipelines, training runs & plots
-|-- F230791 Fatima - Assignment#2 DLP Summary.docx # Executive experimental summary report
+|-- DL_ASS02_23F_0791_Report.docx          # Executive experimental summary report
 |-- results.json                           # Raw metric arrays across all seeds and ablation stages
 |-- .gitignore                             # Excludes large dataset binaries and cache files
 `-- README.md                              # Project documentation and reproduction guide
