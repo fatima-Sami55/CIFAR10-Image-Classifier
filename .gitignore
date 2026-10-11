@@ -1,0 +1,16 @@
+# Data folder and archives
+data/
+*.tar.gz
+*.tar
+*.gz
+*.zip
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Backup files
+*.bak
+*.tmp
